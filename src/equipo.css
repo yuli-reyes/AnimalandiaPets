@@ -1,0 +1,58 @@
+#infocita{
+
+	display: flex;
+	flex-direction: column;
+}
+
+.cajatexto{
+	background-image: url('./components/assets/fondo.jpg');
+	padding: 30px;
+}
+
+.cajatexto p{
+	font-size: 20px;
+	text-align: justify;
+}
+
+.cajaimagen{
+	background-color: #752995;
+	text-align: center;
+}
+
+.cajaimagen h2{
+	color: white;
+	text-shadow: 2px 2px 3px #000000;
+	margin-bottom: 0;
+}
+
+.cajaimagen img{
+	border-radius: 100%;
+	border: 8px solid #FFFFFF;
+}
+
+.imagen{
+	margin: auto;
+	padding: 35px 65px 35px ;
+}
+
+.btn-agendar{
+	margin-top: 20px;
+	padding: 10px;
+	background-color: #FFFFFF;
+  	color: #752995;
+  	border:2px solid #752995;
+  	border-radius: 5px;
+  	font-weight: bold;
+}
+
+.btn-agendar:hover {
+  color: #FFFFFF;
+  background-color: #752995;
+  cursor: pointer;
+}
+
+@media screen and (min-width:768px){
+	#infocita{
+		flex-direction: row;
+	}
+}

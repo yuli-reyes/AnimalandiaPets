@@ -1,0 +1,56 @@
+
+
+nav{
+		background-color: #752995;	
+}
+
+.menu{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+}
+
+.item{
+
+	line-height: 4;
+  text-align:center;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.item a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+.item:hover{
+	background-color: mediumpurple;
+
+}
+
+.active{
+	/*background-color: #26928B;*/
+	background-color: #400F54;
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+  .menu {
+  	display: flex;
+    flex-direction: row;
+    padding: 0;
+   }
+
+   .item{
+   	flex-grow: 1;
+   }
+
+
+}
+
+
+
+

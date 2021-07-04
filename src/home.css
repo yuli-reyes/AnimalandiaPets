@@ -1,0 +1,15 @@
+.encabezado{
+	
+	background-image: url(bannerperros.jpg);
+	max-width: 1500px;
+	min-height: 550px;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+.encabezado h1, h4{
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+}

@@ -1,0 +1,43 @@
+.cardraza{
+
+  max-width: 420px;
+  width: 100%;
+  border: 3px solid #F3F3F3;
+}
+
+
+
+.btn-morado{
+  padding: 8px 20px;
+  background-color: #752995;
+  color: #FFFFFF;
+  border:2px solid #752995;
+  border-radius: 5px;
+  font-weight: bold;
+
+}
+.btn-morado:hover {
+  transition: 0.4s; 
+  color: #752995;
+  background-color: #FFFFFF;
+  cursor: pointer;
+}
+
+.parrafom{
+  text-align: justify;
+}
+
+.card-title{
+  color: #752995;
+}
+
+
+@media (min-width: 480px){
+
+  .card-group{
+
+    justify-content: center;
+  }
+
+}
+@media()

@@ -1,0 +1,16 @@
+
+
+.info{
+	background-color: white;
+	background-image: none;
+}
+
+.titulo{
+	text-align: center;
+}
+
+.imagen{
+	display: block;
+	margin: auto;
+	width: 400px;
+}
