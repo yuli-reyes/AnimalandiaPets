@@ -15,10 +15,10 @@ function Contacto(){
         <div className="form">
           <div id="sendmessage">Su mensaje ha sido recibido. Muchas gracias!</div>
           <div id="errormessage"></div>
-          <form action="" method="post" role="form" className="contactForm">
+          <form action="" method="post" className="contactForm">
             <div className="form row">
               <div className="form-group col-12 col-md-6">
-                <input type="text" name="name" className="form-control" id="name" placeholder="Nombre"/>
+                <input type="text" name="name" className="form-control" placeholder="Nombre"/>
               </div>
               <div className="form-group col-12 col-md-6">
                 <input type="email" className="form-control" name="email" id="email" placeholder="Email"/>
@@ -26,7 +26,7 @@ function Contacto(){
               </div>
             </div>
             <div className="form-group">
-              <input type="text" className="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+              <input type="text" className="form-control" name="subject" id="subject" placeholder="Asunto" />
               <div className="validacion"></div>
             </div>
             <div className="form-group">

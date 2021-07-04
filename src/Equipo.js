@@ -1,7 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import ReactDOM from 'react-dom';
-import Perro from './components/assets/golden.jpg';
+import perro from './components/assets/golden.jpg';
 import './equipo.css';
 
 function Equipo(){
@@ -16,13 +15,13 @@ function Equipo(){
         cruzada que puede llegar a existir en una veterinaria, 
         aplica de lunes a viernespara mascotas que visitanla clínica por primera vez.</p>
         <p>RECUERDA QUE NUESTRO EQUIPO MÉDICO TE CONFIRMARÁ LA CITA.</p>
-        <Link to="/agendatucita"><button className="btn-agendar"><i class="far fa-calendar-alt"></i> Agendar</button></Link>
+        <Link to="/agendatucita"><button className="btn-agendar"><i className="far fa-calendar-alt"></i> Agendar</button></Link>
         </div>
 
         <div className="cajaimagen">
         <h2>GRATIS PRIMER BAÑO</h2>
         <div className="imagen">
-        <img src={Perro}/>
+          <img src={perro} alt="imagen de perro Golden"/>
         </div>
         </div>
       </div>

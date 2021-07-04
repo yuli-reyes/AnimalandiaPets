@@ -2,13 +2,8 @@
 import './Nav.css';
 import React from "react";
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
   Link,
-  NavLink,
-  useRouteMatch,
-  useParams
+  NavLink,  
 } from "react-router-dom";
 
 function Nav(){
@@ -18,7 +13,7 @@ function Nav(){
 			<ul className="menu">
 
 				<li className="item">
-				<Link exact to="/">Home</Link>
+				<Link exact='true' to="/">Home</Link>
 				</li>
 
 				<li className="item">
@@ -26,7 +21,7 @@ function Nav(){
 				</li>
 
 				<li className="item">
-				<Link sensitive to="/servicios">Servicios</Link>
+				<Link sensitive='true' to="/servicios">Servicios</Link>
 				</li>
 
 				<li className="item">

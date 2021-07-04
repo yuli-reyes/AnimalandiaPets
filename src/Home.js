@@ -1,7 +1,5 @@
 
-import './home.css'
-
-import fondopet from './bannerperros.jpg';
+import './home.css';
 
 function Home(){
 	return(

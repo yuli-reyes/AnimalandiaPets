@@ -1,6 +1,3 @@
-
-
-
 import './servicios.css';
 import paciente from './components/assets/paciente.png';
 import vacunacion from './components/assets/vacunacion.png';
@@ -17,7 +14,7 @@ function Servicios(){
             </article>
             <div className="cajageneral">
             	<article className="cajatext">
-            	<img src={paciente} />
+            	<img src={paciente} alt="imagen paciente"/>
                     <h5>Paciente</h5>                
                     <p>This is a longer card with supporting text below as a 
                     natural lead-in to additional content. This content is a 
@@ -25,7 +22,7 @@ function Servicios(){
               	</article>
             
               	<article className="cajatext">
-                <img src={vacunacion} />
+                <img src={vacunacion} alt="imagen vacunacion"/>
                     <h5>Servicio Médico</h5>
                     <p>This is a longer card with supporting text below as a 
                     natural lead-in to additional content. This content is a 
@@ -33,7 +30,7 @@ function Servicios(){
                 </article>
 
                 <article className="cajatext">
-                    <img src={veterinario} />
+                    <img src={veterinario} alt="imagen vaterinario"/>
                     <h5>Vacunación</h5>
                     <p>This is a longer card with supporting text below as a 
                     natural lead-in to additional content. This content is a 

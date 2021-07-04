@@ -13,7 +13,7 @@ function ModalRazas(props){
 			      <div className="modal-body row">
 
 				      <div className="imgraza col-4">
-				      	<img src={props.pm4} className="img-fluid"/>
+				      	<img src={props.pm4} className="img-fluid" alt={props.pm2}/>
 				      </div>
 				      <div className="col-8 px-4">
 				      	<strong>Acerca de</strong><p className="parrafom">{props.pm3}</p>				      	

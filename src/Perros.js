@@ -5,10 +5,7 @@ import Razas from './components/perros/Razas';
 function Perros(){
 
 return(
-
 		<section className="container-fluid">
-
-
 
             <div className="row px-4">
             <div className="titulocaja mb-4">
@@ -27,7 +24,6 @@ return(
 	            }
 
 	        </div>
-
         </section>
 
 		);

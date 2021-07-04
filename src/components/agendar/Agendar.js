@@ -11,7 +11,7 @@ function Agendatucita(){
 
 				<div className="imgperro col-md-6">
 					<div>
-						<img src={agenda} />
+						<img src={agenda} alt="imagen de perro en computador"/>
 					</div>
 
 				</div>
@@ -26,31 +26,15 @@ function Agendatucita(){
 					<div className="row py-2">
 
 						<div className="col-md-6">
-							<label for="validationCustom01" className="form-label">Nombre*</label>
-							<input type="text" className="form-control" id="validationCustom01" required/>
+							<label className="form-label">Nombre*</label>
+							<input type="text" className="form-control" required/>
 							<div className="valid-feedback">
 							Looks good!
 							</div>
 						</div>
 						<div className="col-md-6">
-							<label for="validationCustom02" className="form-label">Apellido*</label>
-							<input type="text" className="form-control" id="validationCustom02" />
-							<div className="valid-feedback">
-							Looks good!
-							</div>
-						</div>
-					</div>
-					<div className="row py-2">
-						<div className="col-md-6">
-							<label for="validationCustom01" className="form-label">Celular*</label>
-							<input type="text" className="form-control" id="validationCustom01" required/>
-							<div className="valid-feedback">
-							Looks good!
-							</div>
-						</div>
-						<div className="col-md-6">
-							<label for="validationCustom02" className="form-label">Email*</label>
-							<input type="text" className="form-control" id="validationCustom02" />
+							<label className="form-label">Apellido*</label>
+							<input type="text" className="form-control" />
 							<div className="valid-feedback">
 							Looks good!
 							</div>
@@ -58,14 +42,30 @@ function Agendatucita(){
 					</div>
 					<div className="row py-2">
 						<div className="col-md-6">
-							<label for="validationCustom01" className="form-label">Nombre de tu Mascota</label>
-							<input type="text" className="form-control" id="validationCustom01" required/>
+							<label className="form-label">Celular*</label>
+							<input type="text" className="form-control" required/>
 							<div className="valid-feedback">
 							Looks good!
 							</div>
 						</div>
 						<div className="col-md-6">
-							<label for="validationCustom02" className="form-label">Fecha y Hora en la que deseas la cita*</label>
+							<label className="form-label">Email*</label>
+							<input type="text" className="form-control" />
+							<div className="valid-feedback">
+							Looks good!
+							</div>
+						</div>
+					</div>
+					<div className="row py-2">
+						<div className="col-md-6">
+							<label className="form-label">Nombre de tu Mascota</label>
+							<input type="text" className="form-control" required/>
+							<div className="valid-feedback">
+							Looks good!
+							</div>
+						</div>
+						<div className="col-md-6">
+							<label className="form-label">Fecha y Hora en la que deseas la cita*</label>
 							<input type="datetime-local" className="form-control" id="validationCustom02" />
 							<div className="valid-feedback">
 							Looks good!

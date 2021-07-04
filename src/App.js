@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
 import Footer from './components/footer/Footer';
@@ -14,13 +12,12 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route,  
 } from "react-router-dom";
 function App() {
   return (
     <div>
-      <Router basename={process.env.PUBLIC_URL} >
+      <Router basename={process.env.PUBLIC_URL}>
            <Header />
             <Nav />      
 
