@@ -1,7 +1,7 @@
 import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
 import Footer from './components/footer/Footer';
-import Error from './components/error/Error';
+import Error404 from './components/error/Error';
 import Agenda from './components/agendar/Agendar';
 import Home from './Home';
 import Equipo from './Equipo';
@@ -42,8 +42,8 @@ function App() {
             <Route path="/contactanos">
             <Contáctanos />
             </Route>
-            <Route path="*">
-            <Error />
+            <Route path="/pedidos">
+            <Error404 />
             </Route>
           </Switch>
           <Footer />
