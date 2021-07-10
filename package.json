@@ -1,5 +1,5 @@
 { 
-  "homepage":"https//yuli-reyes.github.io/AnimalandiaPets",
+
   "name": "proyecto1",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+    "homepage":"https//yuli-reyes.github.io/AnimalandiaPets",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
