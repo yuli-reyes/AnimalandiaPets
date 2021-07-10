@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/https//yuli-reyes.github.io/AnimalandiaPets/static/css/main.1b338610.chunk.css",
+    "main.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.67eea045.chunk.js",
+    "main.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.67eea045.chunk.js.map",
+    "runtime-main.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/runtime-main.4c2556d8.js",
+    "runtime-main.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/runtime-main.4c2556d8.js.map",
+    "static/js/2.cf751e42.chunk.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/2.cf751e42.chunk.js",
+    "static/js/2.cf751e42.chunk.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/2.cf751e42.chunk.js.map",
+    "index.html": "/https//yuli-reyes.github.io/AnimalandiaPets/index.html",
+    "static/css/main.1b338610.chunk.css.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/css/main.1b338610.chunk.css.map",
+    "static/js/2.cf751e42.chunk.js.LICENSE.txt": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/2.cf751e42.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/bannerperros.6316dabd.jpg",
+    "static/media/error404.db574d20.jpg": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/error404.db574d20.jpg",
+    "static/media/equipo.css": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/fondo.6732ce65.jpg",
+    "static/media/golden.35c61c78.jpg": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/golden.35c61c78.jpg",
+    "static/media/logo.8ea1505a.jpg": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/logo.8ea1505a.jpg",
+    "static/media/paciente.204a13b4.png": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/paciente.204a13b4.png",
+    "static/media/perroagenda.09b47b7c.jpg": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/perroagenda.09b47b7c.jpg",
+    "static/media/vacunacion.eef4131b.png": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/vacunacion.eef4131b.png",
+    "static/media/veterinario.8ce5bb60.png": "/https//yuli-reyes.github.io/AnimalandiaPets/static/media/veterinario.8ce5bb60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c2556d8.js",
+    "static/js/2.cf751e42.chunk.js",
+    "static/css/main.1b338610.chunk.css",
+    "static/js/main.67eea045.chunk.js"
+  ]
+}
