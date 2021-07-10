@@ -1,10 +1,6 @@
-
-
 .cajageneral{
 	background-color: white;
 	text-align: center;
-	display: flex;
-	flex-direction: column;
 }
 
 .titulocaja{
@@ -13,8 +9,6 @@
 	font-weight: bold;
     color: #752995;
     text-shadow: 1px 2px 3px black;
-
-
 }
 
 .titulocaja h1{
@@ -61,7 +55,6 @@
 
 @media screen and (min-width:768px){
 	.cajageneral{
-		flex-direction: row;
 		padding-left: 20px;
     	padding-right: 20px;
 	}
