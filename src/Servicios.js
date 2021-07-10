@@ -3,7 +3,6 @@ import paciente from './components/assets/paciente.png';
 import vacunacion from './components/assets/vacunacion.png';
 import veterinario from './components/assets/veterinario.png';
 
-
 function Servicios(){
 	return(
     <div>
