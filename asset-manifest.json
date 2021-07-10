@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/https//yuli-reyes.github.io/AnimalandiaPets/static/css/main.1b338610.chunk.css",
-    "main.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.7d92eb96.chunk.js",
-    "main.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.7d92eb96.chunk.js.map",
+    "main.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.67eea045.chunk.js",
+    "main.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/main.67eea045.chunk.js.map",
     "runtime-main.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/runtime-main.4c2556d8.js",
     "runtime-main.js.map": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/runtime-main.4c2556d8.js.map",
     "static/js/2.cf751e42.chunk.js": "/https//yuli-reyes.github.io/AnimalandiaPets/static/js/2.cf751e42.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.4c2556d8.js",
     "static/js/2.cf751e42.chunk.js",
     "static/css/main.1b338610.chunk.css",
-    "static/js/main.7d92eb96.chunk.js"
+    "static/js/main.67eea045.chunk.js"
   ]
 }
