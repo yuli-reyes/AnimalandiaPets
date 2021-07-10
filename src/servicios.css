@@ -1,7 +1,3 @@
-.cajageneral{
-	background-color: white;
-	text-align: center;
-}
 
 .titulocaja{
 	text-align: center;
@@ -51,14 +47,4 @@
 .cajatext p{
 	text-align:justify;
 	margin: 0;
-}
-
-@media screen and (min-width:768px){
-	.cajageneral{
-		padding-left: 20px;
-    	padding-right: 20px;
-	}
-	.cajatext{
-		padding: 30px;
-	}
 }
