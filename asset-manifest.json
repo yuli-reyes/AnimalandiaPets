@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AnimalandiaPets/static/css/main.3a6d5680.chunk.css",
-    "main.js": "/AnimalandiaPets/static/js/main.9c36bbcd.chunk.js",
-    "main.js.map": "/AnimalandiaPets/static/js/main.9c36bbcd.chunk.js.map",
+    "main.css": "/AnimalandiaPets/static/css/main.a83e15ac.chunk.css",
+    "main.js": "/AnimalandiaPets/static/js/main.d00c7014.chunk.js",
+    "main.js.map": "/AnimalandiaPets/static/js/main.d00c7014.chunk.js.map",
     "runtime-main.js": "/AnimalandiaPets/static/js/runtime-main.841bd737.js",
     "runtime-main.js.map": "/AnimalandiaPets/static/js/runtime-main.841bd737.js.map",
     "static/js/2.cf751e42.chunk.js": "/AnimalandiaPets/static/js/2.cf751e42.chunk.js",
     "static/js/2.cf751e42.chunk.js.map": "/AnimalandiaPets/static/js/2.cf751e42.chunk.js.map",
     "index.html": "/AnimalandiaPets/index.html",
-    "static/css/main.3a6d5680.chunk.css.map": "/AnimalandiaPets/static/css/main.3a6d5680.chunk.css.map",
+    "static/css/main.a83e15ac.chunk.css.map": "/AnimalandiaPets/static/css/main.a83e15ac.chunk.css.map",
     "static/js/2.cf751e42.chunk.js.LICENSE.txt": "/AnimalandiaPets/static/js/2.cf751e42.chunk.js.LICENSE.txt",
     "static/media/home.css": "/AnimalandiaPets/static/media/bannerperros.6316dabd.jpg",
     "static/media/error404.db574d20.jpg": "/AnimalandiaPets/static/media/error404.db574d20.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.841bd737.js",
     "static/js/2.cf751e42.chunk.js",
-    "static/css/main.3a6d5680.chunk.css",
-    "static/js/main.9c36bbcd.chunk.js"
+    "static/css/main.a83e15ac.chunk.css",
+    "static/js/main.d00c7014.chunk.js"
   ]
 }
