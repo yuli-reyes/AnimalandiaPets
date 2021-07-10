@@ -6,7 +6,7 @@ import veterinario from './components/assets/veterinario.png';
 function Servicios(){
 	return(
     <div>
-	<section>
+	   <section>
             <article className="titulocaja">
                 <h1>Servicios</h1>
                 <hr></hr>
@@ -38,7 +38,7 @@ function Servicios(){
                     </article>
                 </div>
             </div>
-    </section>
+        </section>
     </div>
     );
 }
